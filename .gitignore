@@ -2,3 +2,6 @@
 DATA/title.akas.tsv.gz
 DATA/title.basics.tsv.gz
 DATA/title.ratings.tsv.gz
+DATA/Data/ratings.akas.tsv.gz
+DATA/Data/title.akas.tsv.gz
+DATA/Data/title_basics.csv.gz

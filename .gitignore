@@ -26,3 +26,7 @@ In_progress/Data/title_basics.csv.gz
 In_progress/title.akas.tsv.gz
 In_progress/title.basics.tsv.gz
 In_progress/title.ratings.tsv.gz
+In_progress/Data/ratings_cleaned1.akas.tsv.gz
+In_progress/Data/title.akas_cleaned1.tsv.gz
+In_progress/Data/title_basics_cleaned1.csv.gz
+In_progress/Data/title_basics_cleaned_1.csv.gz

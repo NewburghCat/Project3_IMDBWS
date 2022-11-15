@@ -30,3 +30,6 @@ In_progress/Data/ratings_cleaned1.akas.tsv.gz
 In_progress/Data/title.akas_cleaned1.tsv.gz
 In_progress/Data/title_basics_cleaned1.csv.gz
 In_progress/Data/title_basics_cleaned_1.csv.gz
+Data/ratings_clean_df.csv.gz
+Data/title_akas_clean_df.csv.gz
+Data/title_basics_clean_df.csv.gz
